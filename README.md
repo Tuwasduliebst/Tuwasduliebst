@@ -7,3 +7,6 @@ Treadmill and computer go together pretty well, don't they?  lol
 
 <img align="center" alt="" src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/touch.png?raw=true" width="100%">
 
+- MacBook Pro 16(2023) : Apple M2 Max/ 12core CPU/ 38core GPU/ 16core Neural Engine/ 96GB memory/ 4TB SSD<br>
+- Apple Studio Display 27
+
