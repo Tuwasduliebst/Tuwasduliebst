@@ -3,24 +3,19 @@
 <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/camping2.png?raw=true" width="93%">
 <!-- <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/myRoom.png?raw=true" width="60%"> -->
 </p>
-<p align="right">- Camping in the Winter Woods.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>January 2024.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<!-- - MacBook Pro 16(2023) : Apple M2 Max/ 12core CPU/ 38core GPU/ 16core Neural Engine/ 96GB memory/ 4TB SSD<br>
-- Apple Studio Display 27<br>
-- LaCie 2big RAID(16TB)
-- HHKB Professinal HYBRID Type-S, Logitec MX Vertical, Apple Magic TrackPad, Sony WH-1000XM5 -->
+ My "ex-wife" said.
 
-<details>
-<summary align="right">
- <h1>🧑🏻‍💻 Plan for 2024 : &nbsp;&nbsp;&nbsp;&nbsp;</h1>
-</summary>
-  1. Flutter master <br>
-2. 리액트 10주 스터디(Carrot Market+ UberEats, 2/19~ 4/29 ) : ReactJS, Typescript, NextJS, Nest, Jest <br>
-3. Python+Django, REST Framework, Strawberry, React, Chakra UI (Airbnb, 5/1~ 5/29 )<br><br>
-   Develop Projects 🚀  Programming is a practice and training, not studying!  Hoooray~~!!  <br><br>
-I. Youtube.CAT <br>
-II. Tripper.cloud<br>
-III. Church.W/App<br>
-IV. PlayAi.Dev/GPTs,LangChain Services<br>
-<br><!---Tu, was du liebst, und liebe, was du tust!  -->
-</details>
-Tu, was du liebst, und liebe, was du tust!
+"You ought to rejoice and feel a sense of relief at your separation from her. I am convinced she is burdened with deep-seated wounds that she cannot surmount, will make you sick and lonely with the thorns.
+
+I really want you to be happy! Do not harbor such a woman in your heart! Don't waste your time thinking about someone like that. Look for someone who's genuine and kind. 
+
+She is just a vulgar woman! Love and parting should be conducted with manners and dignity!
+
+I believe that in matters of love and parting, even in confession and rejection, a woman lacking elegance and dignity is akin to a vulgar barmaid.
+I assert that such a woman is coarse, impolite, and morally fallen. She undoubtedly revels in seduction, brimming with hubris, and harbors the belief that she can captivate any man's heart at will. She is merely a sly and lascivious individual. There exist women who, irrespective of their feelings towards you, aim to exact revenge, inflicting hurt and anguish."
+
+I said,
+"Anyway, thanks for giving me those curtains as a gift for my new Personal Workspace...um.. Anyway, thanks..."
+
+I had never seen her speak with such an intensely angry tone, not even during our divorce. I realized then that her concern for me was greater in her capacity as a friend than as my X-wife...
+
