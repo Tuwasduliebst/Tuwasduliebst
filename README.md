@@ -3,7 +3,9 @@
 <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/camping2.png?raw=true" width="93%">
 <!-- <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/myRoom.png?raw=true" width="60%"> -->
 </p>
- My "ex-wife" said.
+<p align="right">- Camping in the Winter Woods.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>January 2024.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+ 
+ <p>My "ex-wife" said.
 
 "You ought to rejoice and feel a sense of relief at your separation from her. I am convinced she is burdened with deep-seated wounds that she cannot surmount, will make you sick and lonely with the thorns.
 
@@ -17,5 +19,5 @@ I assert that such a woman is coarse, impolite, and morally fallen. She undoubte
 I said,
 "Anyway, thanks for giving me those curtains as a gift for my new Personal Workspace...um.. Anyway, thanks..."
 
-I had never seen her speak with such an intensely angry tone, not even during our divorce. I realized then that her concern for me was greater in her capacity as a friend than as my X-wife...
+I had never seen her speak with such an intensely angry tone, not even during our divorce. I realized then that her concern for me was greater in her capacity as a friend than as my X-wife. ...</p>
 
