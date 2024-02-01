@@ -4,7 +4,8 @@
 <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/camping2.png?raw=true" width="93%">
 <!-- <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/myRoom.png?raw=true" width="60%"> -->
 </p>
-<p align="right">- Camping in the Winter Woods.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>January 2024.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p align="right">- Camping in the Winter Woods.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>January 2024.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> ![](https://workers-visitors.wlsdnr129.workers.dev/visit?username=Tuwasduliebst)
+<sup>[&larr; Try it](https://workers-visitors.wlsdnr129.workers.dev/)<sup></p>
 
 
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuwasduliebst&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuwasduliebst&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -66,8 +67,7 @@ III. Church.W/App(FullStack)<br>
 IV. PlayAi.Dev/GPTs,LangChain Services<br>
 <br>
 </details>
-Tu, was du liebst, und liebe, was du tust! ![](https://workers-visitors.wlsdnr129.workers.dev/visit?username=Tuwasduliebst)
-<sup>[&larr; Try it](https://workers-visitors.wlsdnr129.workers.dev/)<sup> <br>
+Tu, was du liebst, und liebe, was du tust!  <br>
 
 
 
