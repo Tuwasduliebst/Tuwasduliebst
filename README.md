@@ -44,15 +44,11 @@ I. Youtube.CAT(FullStack) <br>
 II. Tripper.cloud(FullStack)<br>
 III. Church.W/App(FullStack)<br>
 IV. PlayAi.Dev/GPTs,LangChain Services<br>
-<br>
-</details>
 Tu, was du liebst, und liebe, was du tust!
+</details>
 
-
-
-  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
-</div>
+
 
 
 
