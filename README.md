@@ -42,17 +42,34 @@
 
  <details>
 <summary align="right">
- <h1>🧑🏻‍💻 Plan for 2024 : &nbsp;&nbsp;&nbsp;&nbsp;</h1>
+ <h1>🧑🏻‍💻 I define my growth in this way : &nbsp;&nbsp;&nbsp;&nbsp;</h1>
 </summary>
-  1. Flutter master (+ payments) + AI skills... <br>
-2. 리액트 10주 스터디(Carrot Market+ UberEats, 2/19~ 4/29 ) : ReactJS, Typescript, NextJS, Nest, Jest (+ payments) <br>
-3. Python+Django+FastApi (+ payments), REST Framework, Strawberry, React, Chakra UI (Airbnb, 5/1~ 5/29 )<br><br>
-   Develop Projects 🚀  Programming is a practice and training, not studying!  Hoooray~~!!  <br><br>
-I. Youtube.CAT(FullStack) <br>
-II. Tripper.cloud(FullStack)<br>
-III. Church.W/App(FullStack)<br>
-IV. PlayAi.Dev/GPTs,LangChain Services<br>
-Tu, was du liebst, und liebe, was du tust!
+I define my growth in this way : <br><br>
+
+1. algorithm/data structure 
+2. projects
+3. community activities
+
+---
+
+I describe in detail how I solved the issue technically. 
+
+1. python ( tensorflow / PyTorch )
+2. Js(React/Next, node)
+3. Flutter
+
+---
+
+Y.T.CAT / 
+Tripper.Cloud /
+Church /
+Playai.Dev / GPTs, LangChain Services
+
+---
+
+- Programming is not studying, it's practicing and training!!! 
+- Tu, was du liebst, und liebe, what du tust!
+
 </details>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
