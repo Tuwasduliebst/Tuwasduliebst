@@ -1,7 +1,7 @@
 
 <img style="cursor: default;" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Tu%20was%20du%20liebst&fontAlignY=32&animation=fadeIn&descAlign=50&desc=Do%20what%20you%20love%20and%20love%20what%20you%20do!&descAlignY=51"/>
 <p align="center">
-<img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/camping2.png?raw=true" width="93%">
+<img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/camping2.png?raw=true" width="60%">
 <!-- <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/myRoom.png?raw=true" width="60%"> -->
 </p>
 <p align="right">- Camping in the Winter Woods.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>January 2024.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> </p>
