@@ -71,6 +71,8 @@ Playai.Dev / GPTs, LangChain Services
 
 - Programming is not studying, it's practicing and training!!!
 - Tu, was du liebst, und liebe, what du tust!
+- Memento Mori!
+- Carpe diem, quam minimum credula postero!
 
 </details>
 
