@@ -1,10 +1,10 @@
 <img style="cursor: default;" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Tu%20was%20du%20liebst&fontAlignY=32&animation=fadeIn&descAlign=50&desc=Do%20what%20you%20love%20and%20love%20what%20you%20do!&descAlignY=51"/>
 <p align="center">
 <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/spring_sky.png?raw=true" width="20%">
- </p>
- <p align="right">
-  __&nbsp;Spring.sky {&nbsp;in bed&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p><br><br><br><br>
+ <p color="gary" align="right">
+  __&nbsp;Spring.sky {&nbsp;in bed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 <!-- Success is a finicky thing<br>
 And if you ain't sure, no, it'll never be<br>
