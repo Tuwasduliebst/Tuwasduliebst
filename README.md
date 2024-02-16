@@ -3,7 +3,7 @@
 <img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/spring_sky.png?raw=true" width="20%">
  </p><br><br><br><br>
  <p color="gary" align="right">
-  __&nbsp;Spring.sky {&nbsp;in bed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  __&nbsp;Spring.sky {&nbsp;in bed&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 <!-- Success is a finicky thing<br>
