@@ -1,7 +1,7 @@
 <img style="cursor: default;" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Tu%20was%20du%20liebst&fontAlignY=32&animation=fadeIn&descAlign=50&desc=Do%20what%20you%20love%20and%20love%20what%20you%20do!&descAlignY=51"/>
 <p align="center">
-<img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/spring_sky.png?raw=true" width="20%">
-<!--  <br><br>YOU: What is that?<br> I: What is that to you? and to me? -->
+<img  src="https://github.com/Tuwasduliebst/Tuwasduliebst/blob/main/spring_sky.png?raw=true" width="20%"><br><br>
+“who’s asking for all this?” <br>Why, in the first place, do we need to rush furiously towards this AI-driven “utopia”?<br> Who benefits from all of us frothing with excitement about AI?<br><br>To answer these questions, I'm studying AI.
  </p><br><br><br><br>
  <p color="gary" align="right">
   __&nbsp;Spring.sky {&nbsp;in bed&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
